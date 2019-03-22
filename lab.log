@@ -172,3 +172,15 @@
 2019-03-18 09:17:33.054 [AWT-EventQueue-0] INFO  com.rsnorrena.westvansurf.MainGui - Update display has been called.
 2019-03-18 09:17:33.055 [AWT-EventQueue-0] INFO  com.rsnorrena.westvansurf.MainGui - Update display has been called.
 2019-03-18 09:17:37.374 [Thread-3] INFO  com.rsnorrena.westvansurf.MainGui - Update display has been called.
+2019-03-18 09:58:59.678 [main] INFO  com.rsnorrena.westvansurf.MainGui - The main method is called
+2019-03-18 09:58:59.830 [AWT-EventQueue-0] INFO  com.rsnorrena.westvansurf.MainGui - The MainGui constructor is called
+2019-03-18 09:58:59.961 [AWT-EventQueue-0] INFO  com.rsnorrena.westvansurf.MainGui - Checking for saved data
+2019-03-18 09:58:59.972 [AWT-EventQueue-0] INFO  com.rsnorrena.westvansurf.MainGui - Update display has been called.
+2019-03-18 09:58:59.974 [AWT-EventQueue-0] INFO  com.rsnorrena.westvansurf.MainGui - Update display has been called.
+2019-03-18 09:59:04.411 [Thread-3] INFO  com.rsnorrena.westvansurf.MainGui - Update display has been called.
+2019-03-18 10:26:46.176 [main] INFO  com.rsnorrena.westvansurf.MainGui - The main method is called
+2019-03-18 10:26:46.291 [AWT-EventQueue-0] INFO  com.rsnorrena.westvansurf.MainGui - The MainGui constructor is called
+2019-03-18 10:26:46.494 [AWT-EventQueue-0] INFO  com.rsnorrena.westvansurf.MainGui - Checking for saved data
+2019-03-18 10:26:46.503 [AWT-EventQueue-0] INFO  com.rsnorrena.westvansurf.MainGui - Update display has been called.
+2019-03-18 10:26:46.505 [AWT-EventQueue-0] INFO  com.rsnorrena.westvansurf.MainGui - Update display has been called.
+2019-03-18 10:26:50.572 [Thread-3] INFO  com.rsnorrena.westvansurf.MainGui - Update display has been called.
